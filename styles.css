@@ -33,6 +33,7 @@ height:400px;
 @media screen and (max-width:720px){
   .container{
     margin-top:10px;
+    height:500px;
   }
 }
 .form-group {
